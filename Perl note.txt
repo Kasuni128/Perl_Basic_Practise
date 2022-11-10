@@ -1,0 +1,22 @@
+Perl
+
+practcial Expraction Reporting Language
+
+USED
+web developing/text processing/Automation
+
+FEATURES
+take from c,awk(OOk),sed,shell
+support OOP concept
+cpaN MODULE
+case sensitive language
+most popular web programming language
+
+interpreted language
+
+Windows - strawbeery perl or active perl
+Linux
+
+Run code - perl f.pl
+
+
